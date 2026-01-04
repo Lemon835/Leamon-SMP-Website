@@ -1,3 +1,4 @@
 function copyText() {
-    navigator.clipboard.writeText("leamonsmp.net");
+    navigator.clipboard.writeText("play.leamonsmp.net:28303");
+
 }
